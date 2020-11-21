@@ -1,0 +1,75 @@
+
+2020-09-21 00:03:49 
+ i
+2020-09-21 00:03:59 
+ ii
+2020-09-21 05:07:18 
+ iii
+2020-11-05 06:36:01 
+ i.........cccc.cc.gcgggggggggggc...cc.........ctc....ccccccccccccccc.cccccc..ccc
+ cccccc......cggg.m..ggggg.........g.gg.........ii.........ii.iii...i.........irr
+ rrrii
+2020-11-05 07:08:23 /home/lj/.lexaloffle/pico-8/carts/celeste.p8.png
+ iirr_rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+ rrrrrrrrr_igggggggggggggggmggggggmmmmmmmmmmmmmmsssssstc.........ccc.cc.c..ciici
+2020-11-05 07:23:46 
+ iiii
+2020-11-05 07:23:58 /home/lj/.lexaloffle/pico-8/carts/celeste.p8.png
+ irrr_rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+ rrrrrrrrrrrrrrrrrrrrrrrrrri
+2020-11-05 16:24:27 
+ iii
+2020-11-05 16:24:36 /home/lj/.lexaloffle/pico-8/carts/celeste.p8.png
+ irrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr__r_rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrri
+2020-11-05 16:33:49 
+ ii..ii..ii
+2020-11-05 16:34:19 /home/lj/.lexaloffle/pico-8/carts/hollowknight.p8.png
+ iiiii.......ccggggggggggg.........
+2020-11-05 16:41:51 
+ i..iiiiii
+2020-11-05 16:42:18 /home/lj/.lexaloffle/pico-8/carts/hungryknight.p8.png
+ i...ccgggggggggggggggggggggggggg.gggggggggggggggggggg..ggggggggg.........g..gggg
+ gggggggggggggggggggggggggggg.........g..ggggii
+2020-11-06 10:07:40 
+ i
+2020-11-21 05:47:35 
+ icgggggggggggg.ggggggggggggggggggggggggggggg.....ggggggggggggggggggggggg.ggggggg
+ ggggggggggg.........iii....ii
+2020-11-21 05:53:56 /home/lj/.lexaloffle/pico-8/carts/pikachu.p8.png
+ ii.........iggg.........ig.ggggggggggggggggcccccc.........ccccccccc.........cccc
+ cgggggigggggggggggggggggggggggggggcccccii..iiccric.........cggggggg.ggg.gg.g....
+ ggggggggggggggggggggggigggggggggggggggggggggg..gg....gggggggggggggggggg....ggggg
+ gggggggggggg..ggggggggggggggggggggggggggggggggggggggggggggg.gggggggggggggggggggg
+ ggggggggggggggggggggggggggggggggggggggggggggggggggggggg.cccc...cgggggggggggggccc
+ .........cc.........cccc.........c.........c.........cc........cc...c.........c.
+ 
+2020-11-21 07:08:41 
+ i........c.cc.........cccccccccc..c.........c
+2020-11-21 07:13:50 
+ iiii
+2020-11-21 07:22:10 
+ i
+2020-11-21 07:22:13 /home/lj/.lexaloffle/pico-8/carts/pikachu.p8.png
+ icgggggggggggggggggggggggggg..ggggggggggggggggggg.g.........ggggggggggg.........
+ gg.gggggggggggg.ggg.....ggggggggg..gggg..gcccccccc.........c.....ccc...cccc....c
+ c...c.........cc.........cggggggggg.ggggggggggg.gggggggggggggggggggggggggggggggg
+ ggggggggggggg.gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+ gggggggg..ggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggcccccc
+ cccccccccccc....ccccccccccc...cc.........c......c..c.cccccccccgcccccccccccccccri
+ cccccc....cccri..ccc..ccc.........ccc.c..ccccc.ccccrrrccccrrrrrrrrrr______r_____
+ ____rr___r_____rr_______rcgii....i....rrrricgggggggcrrrrrrrrrrrgggggggggg.gggggg
+ ggggggrrrgccriccriccricrrrrrrrrrrrrcgggggggggrrrrrrrgggggrrriccrrccrrccrrrrrr_rr
+ _rrrrrcc....crc...cc..cccc...c.....cc.........gggrrrr_________rr___r________rr__
+ _______rrrrgcccccccccc.ccccccccc.........cccccccccccccccc.........c.cccccc..cc..
+ ....cccc.ccccccc.ccc.........ccccggcccccccccccccccccccccccciccciccrccccccccccccc
+ ccccccccccccccc..cccc.cc.........cc....ccc..cccccccccc......cccrric...cggggggggg
+ gggggrrrrrigggggg.gggggrrrggggggrrgggggggggirggggrrrrrrrr_________rrrrrrrrrrrrrr
+ rr_________ggccccc.........c....cccc.ccccccccccccccccccccc.....cccccccccccc.ccc.
+ ccccccccccccccccccccccccccciccccccciiccccccccrccc.ccc..c........c......c........
+ .cirr_______rrrrrrrrrrrr____r_________rccii
+2020-11-21 10:09:46 /home/lj/.lexaloffle/pico-8/carts/pikachu.p8
+ ii........iii
+2020-11-21 10:10:25 /home/lj/.lexaloffle/pico-8/carts/pkachu.p8.png
+ iriiii.i.........ci
+2020-11-21 10:50:34 /home/lj/.lexaloffle/pico-8/carts/eevee.p8
+ 
