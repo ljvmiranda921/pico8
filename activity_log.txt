@@ -72,4 +72,31 @@
 2020-11-21 10:10:25 /home/lj/.lexaloffle/pico-8/carts/pkachu.p8.png
  iriiii.i.........ci
 2020-11-21 10:50:34 /home/lj/.lexaloffle/pico-8/carts/eevee.p8
+ iiicg.........ggggggg.........gg......ggg.gg.........ggg.........ggg.ggggggggggg
+ ggggggggggggggggg.ggg.........ggggggggggggggggggggggggg..gggggggggggggggggggg...
+ gggggggggggggggggggggggggggggggggggggggg.gg......ggggggggggg.gggg.ggggggggg.....
+ ....ggggggggg....ggggggggggggggggggggggggggggg..ggggggggggggggggggggggrrrrrrri.i
+ ii.iirrrrr_r_rr___rrrrrrrr_________iccccccccccccccccccc.cccccccccccccccccccccccc
+ ccccccccccccccc....cccccccccccccccccccc.....ccc.c...cccccccccccccccccccccccccccc
+ c......c....ccccccccccc........ccc.........c..cccc.cc..cccccccccccc.riccccccrcc.
+ ...ccccccc.........c.cccccrcccc.cc..gg.........gggggg.gggggggggggggggggggg.ggmmm
+ mmmmmrrrmmmmmmmmmmmmmgggggmmmrrmmmmmcccccccccccccc...c.....cccccccccc....ccccccc
+ cccc....cccccccrcc....ccccccccccccccccccccc.ccccci.ccccicciccrccc.ccccccc.cccccc
+ cc.ccccccccccccccccccccccccccccccc.........ccccccccccccccccccccccccccccccccccccc
+ cccccccc.cc..c...ccccccccc.c.....ccccccccrc.cccccccccccccccccccccccc..c.cccccccc
+ cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccrrrrrrccc
+ rcrcrrrrrrr_rrrrrrr_________rrrrrrrcrrrrrrrcrrrrrrrrrrrrrrrr_r_________rrrrrrrcm
+ mmmmrrrrrrrrrgimmmmmmmmmmmmmmmmmrrrrrrrrrrrrrrrmmmmmmmmmmcc.ccccccc.........cccc
+ .........cccc.cccccrmmmmmmrrrrmrrrrimccrcrrrrrrrrrrrrrrrrrrrrrr___cmmmmmmmmmmmmm
+ mmmmrrrrrrrrrrmmmmmmmmmrrrrrrrrrrrrrrrrrrrrrrrrr_____r__rr____rmmmmmmm.........m
+ m..m
+2020-11-22 10:05:05 
+ i.i
+2020-11-22 10:05:14 /home/lj/.lexaloffle/pico-8/carts/eevee.p8
+ iccm...m.........mmmmmmrrrrrrrrrrrmm.....mmmmm.mcc.....ccccc...cc.c.........ccc.
+ .....cc.........c......cgg.........ggggggggggggggggggggggg......gggggggggggggggg
+ gggggggggggggggggggggggggggggggggggggggggggc.cccccccccccggcccccggggggggggggggggg
+ gggggggggggcccccc.........ccccgggccccccc.cccccccccccccccccggcccccrccccccccccgggg
+ gggggggggggggggcccccccggggggcccccccccccccccccicccccccccccccccc..ccccicc..ccccccc
+ rrcmmmmmmrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr_rrrrrrrrrrrrrri.i.........i.i..ii.
  
