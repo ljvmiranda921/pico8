@@ -100,3 +100,21 @@
  gggggggggggggggcccccccggggggcccccccccccccccccicccccccccccccccc..ccccicc..ccccccc
  rrcmmmmmmrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr_rrrrrrrrrrrrrri.i.........i.i..ii.
  ......i.........i.........ii.........iiicirrcccrcccccccccccgmgi.........giiiiigrrrrrrrrrrrrrrrg
+2021-01-02 06:03:06 
+ i
+2021-01-02 06:03:09 /home/lj/.lexaloffle/pico-8/carts/eevee.p8
+ rrrrrr_rrrrccccccc.ccc...ccc.........im.mmmmmmmmmmrrrrr_r___rmmmmmmmmmmmmmmmmmmm
+ mmmmmirrrrrrrrrrmm.........mccc.cc.........c...ccccccc.........ccc.ccccccccirrrr
+ rrrrrr___rrrrr__rrrrrrrrrrrrrrrrrrrcccccccccirrrrrrrrricccrrrrrcccirrrrcccrrrrrc
+ ccccirrrrrrrrrrrr_________ccccccccc..cccc.c....cccc.ccc.c.........cc..cccccccc.c
+ .c..ccc.....ccccc..ccccccccc...ccccc.........cc.........c.........c.........cccc
+ ccgmmm.mmmmmmmmmrrrrrrrrrrrrrrriccccccccc.cc.........c.........irrrrrrrrrrrrrrrr
+ rrrrrrrrrri.........icc.cc..c.........cc.........cc.........cc.cc..cc.cccccc....
+ .....c.........cc.........cc........cc...ccccccc....c.........cc.........c...c.c
+ ...c.........cc.ccc..c.........c.........ccc..c....cc.........c.cccc.c.c...c....
+ .....c.cccccc.c...c.cc.......cc........c......ccccc.........c..c.........c....c.
+ .cc.........c.........cccccirrrrrrrrrri.........i.........ccc.cc.........cccccir
+ rrrrrricccccccic.....ccrrccc..cccccrr_crcccc.........cccc.ccciicccrrrcccrcrrcccc
+ cccccrccrrrrrrrrrrrrrrrrccccccrrcrrrrrrrrrccrrrc.cc.c......cc.cc.cc.....c.......
+ ..c.........c.........c.........cc.cccccccrcrrimmmmmmmmrrrrrrrrrrrrrrrrrrri.....
+ ....ir
